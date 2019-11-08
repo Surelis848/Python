@@ -1,0 +1,5 @@
+{
+  "cmd" : ["python", "$file", "$args"],
+  "info" : "Running $project_path$file_name...",
+  "selector" : "source.py"
+}
